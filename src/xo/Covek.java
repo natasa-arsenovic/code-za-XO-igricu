@@ -10,6 +10,6 @@ import javax.swing.JOptionPane;
  *
  * @author Natasa
  */
-public class Covek {
+public class Covek extends Igrac {
     
 }
